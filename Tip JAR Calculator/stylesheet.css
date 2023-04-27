@@ -1,0 +1,22 @@
+#results {
+    display:none;
+  }
+  body {
+    background-image: url("kuromi.png");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: repeat;
+
+  }
+  h1 {
+    color: pink;
+  }
+  h5{
+    color:plum;
+  }
+  .card {
+    color: azure;
+  }
+  .results{
+    color: pink;
+  }
